@@ -88,6 +88,12 @@ p {
 table {
   margin: 0 auto;
 }
+th {
+  font-size: 200%;
+}
+td {
+  font-size: 150%;
+}
 table,
 th,
 td {
