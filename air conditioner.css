@@ -17,7 +17,7 @@
 /* 设计列表项 */
 #sidebar ul {
   list-style-type: none;
-  padding: 0;
+  padding: 200;
 }
 
 #sidebar ul li a {
